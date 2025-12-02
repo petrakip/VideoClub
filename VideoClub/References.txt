@@ -1,0 +1,16 @@
+References & Useful Links
+
+* How to read a file line by line:
+	https://www.scaler.com/topics/cpp-read-file-line-by-line/
+
+* Proper C++ coding conventions:
+	http://courses.cms.caltech.edu/cs11/material/cpp/donnie/cppstyle.html#:~:text=C%2B%2B%20allows%20any%20capitalization%20for,first%20letter%20of%20variable%20names
+
+* How to copy assets/ to destination folder after building the project:
+	https://stackoverflow.com/a/17749820/366313
+
+* How to convert from string to int
+	https://www.freecodecamp.org/news/string-to-int-in-c-how-to-convert-a-string-to-an-integer-example/
+
+* How to split a string
+	https://stackoverflow.com/a/14266139/366313

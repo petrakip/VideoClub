@@ -1,0 +1,169 @@
+﻿  App.cpp
+  Button.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Button.cpp(18,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Button.cpp(18,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Button.cpp(18,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Button.cpp(18,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Button.cpp(25,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Button.cpp(25,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DoubleSlider.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(27,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(27,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(27,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(27,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(41,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(41,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(44,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(44,37): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(84,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(82,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(101,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(101,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(102,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(102,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(105,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(106,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(109,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(110,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(137,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(138,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(140,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(140,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(143,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(143,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(145,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(147,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(147,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\DoubleSlider.cpp(149,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FilterState.cpp
+  Helpers.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Helpers.cpp(30,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Helpers.cpp(31,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Helpers.cpp(33,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Helpers.cpp(34,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Helpers.cpp(60,41): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  InputBox.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(35,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(35,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(35,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(35,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(46,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(46,8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(57,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(57,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\InputBox.cpp(133,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  KeyboardReader.cpp
+  Layout.cpp
+  main.cpp
+  MousePosition.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MousePosition.cpp(18,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MousePosition.cpp(18,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MousePosition.cpp(25,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MousePosition.cpp(26,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MousePosition.cpp(24,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MousePosition.cpp(24,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Movie.cpp
+  MovieBox.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieBox.cpp(13,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieBox.cpp(13,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieBox.cpp(13,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieBox.cpp(13,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MovieFilter.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(39,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(39,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(39,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(39,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(46,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(46,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(48,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(48,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(48,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(48,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(50,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(50,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(58,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(58,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(66,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(66,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(74,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(74,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(88,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(88,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(97,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MovieFilter.cpp(97,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MoviePopup.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(24,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(24,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(24,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(24,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(31,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(31,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(31,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(31,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(40,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(40,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(45,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(45,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(50,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(50,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(52,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(52,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(57,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(57,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(59,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(59,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(64,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(64,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(67,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(67,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(72,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(72,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(75,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(75,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(80,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(80,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(83,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\MoviePopup.cpp(83,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SingleSlider.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(26,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(26,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(26,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(26,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(39,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(39,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(42,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(42,37): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(74,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(74,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(77,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(96,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(96,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\SingleSlider.cpp(98,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Toggle.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(16,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(36,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(36,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(36,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(36,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(43,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(43,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Toggle.cpp(43,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ToggleGroup.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\ToggleGroup.cpp(22,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\ToggleGroup.cpp(22,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\ToggleGroup.cpp(22,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\ToggleGroup.cpp(22,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Widget.cpp
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Widget.cpp(47,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Widget.cpp(47,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Widget.cpp(48,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\VideoClub\Widget.cpp(48,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+sggd.lib(graphics.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(graphics.obj)' or at ''; linking object as if no debug info
+sggd.lib(GLbackend.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(GLbackend.obj)' or at ''; linking object as if no debug info
+sggd.lib(shader.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(shader.obj)' or at ''; linking object as if no debug info
+sggd.lib(fonts.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(fonts.obj)' or at ''; linking object as if no debug info
+sggd.lib(texture.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(texture.obj)' or at ''; linking object as if no debug info
+sggd.lib(AudioManager.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(AudioManager.obj)' or at ''; linking object as if no debug info
+sggd.lib(lodepng.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(lodepng.obj)' or at ''; linking object as if no debug info
+  VideoClub.vcxproj -> C:\Users\User\Desktop\OPA University\2o etos\1o exa\C++\VideoClub\bin\VideoClubd.exe

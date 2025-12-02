@@ -1,0 +1,17 @@
+// Paths
+#define ASSET_PATH "assets\\"
+
+// Window
+#define WINDOW_WIDTH 1200
+#define WINDOW_HEIGHT 600
+
+// Canvas
+#define CANVAS_WIDTH 1000
+#define CANVAS_HEIGHT 500
+
+// Layout
+#define LAYOUT_BOX_WIDTH 100
+#define LAYOUT_BOX_HEIGHT 130
+#define LAYOUT_HORIZONTAL_SPACING 20
+#define LAYOUT_VERTICAL_SPACING 20
+#define LAYOUT_MARGIN 50
